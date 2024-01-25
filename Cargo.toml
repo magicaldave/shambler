@@ -11,4 +11,4 @@ rayon = "1.5.1"
 shalrath = "0.2.0"
 
 #usage = { path = "../../../usage", features = ["rayon"] }
-usage = "1.1.0"
+usage = "1.1.0", features = ["rayon"]
