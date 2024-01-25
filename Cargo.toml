@@ -7,8 +7,8 @@ edition = "2018"
 nalgebra = "0.30.1"
 rayon = "1.5.1"
 
-shalrath = { path = "../shalrath" }
-#shalrath = "0.2.0"
+#shalrath = { path = "../shalrath" }
+shalrath = "0.2.0"
 
-usage = { path = "../../../usage", features = ["rayon"] }
-#usage = "1.1.0"
+#usage = { path = "../../../usage", features = ["rayon"] }
+usage = "1.1.0"
